@@ -1,2 +1,3 @@
 [deploy]
 startCommand = "python bot1.py"
+restartPolicyType = "ON_FAILURE"
